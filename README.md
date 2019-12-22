@@ -9,7 +9,9 @@ Autolib owned cars which were which could be leased by public and returned after
 
 ### Hypothesis
 Null Hypothesis : Average number of cars returned in Paris over weekends is same as those returned in Seine Saint Denis.
+
 Alternative Hypothesis: Average number of cars returned in Paris over weekends is not the same as those returned in Seine Saint Denis.
+
 Ho :  μ of Paris = μ of Seine Saint Denis
 Ha :  μ of Paris ≠ μ of Seine Saint Denis
 
